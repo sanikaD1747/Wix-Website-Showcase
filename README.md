@@ -21,26 +21,14 @@ This project is a feature-rich and responsive coaching website built using \*\*W
 Below are screenshots captured from the live website showcasing different pages and UI components:
 
 
-
-| Screenshot | Preview |
-
-|-----------|---------|
-
-| 🖼️ Screenshot 1 | !\[](./Screenshot%202025-07-17%20225738.png) |
-
-| 🖼️ Screenshot 2 | !\[](./Screenshot%202025-07-17%20225832.png) |
-
-| 🖼️ Screenshot 3 | !\[](./Screenshot%202025-07-17%20225852.png) |
-
-| 🖼️ Screenshot 4 | !\[](./Screenshot%202025-07-17%20225910.png) |
-
-| 🖼️ Screenshot 5 | !\[](./Screenshot%202025-07-17%20225957.png) |
-
-| 🖼️ Screenshot 6 | !\[](./Screenshot%202025-07-17%20230025.png) |
+| 🖼️ Screenshot 1 | ![](images/Screenshot%202025-07-17%20225738.png) |
+| 🖼️ Screenshot 2 | ![](images/Screenshot%202025-07-17%20225832.png) |
+| 🖼️ Screenshot 3 | ![](images/Screenshot%202025-07-17%20225852.png) |
+| 🖼️ Screenshot 4 | ![](images/Screenshot%202025-07-17%20225910.png) |
+| 🖼️ Screenshot 5 | ![](images/Screenshot%202025-07-17%20225957.png) |
+| 🖼️ Screenshot 6 | ![](images/Screenshot%202025-07-17%20230025.png) |
 
 
-
----
 
 
 
